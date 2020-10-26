@@ -33,9 +33,9 @@ I've implemented it based on a Flutter online course (Alura: https://cursos.alur
     <img src="screenshots/ios-dashboard.png" alt="Dashboard" width="250">
   </div>
   <div class="column">
-    <img src="screenshots/ios_list.png" alt="List" width="250">
+    <img src="screenshots/ios-list.png" alt="List" width="250">
   </div>
   <div class="column">
-    <img src="screenshots/ios_form.png" alt="Form" width="250">
+    <img src="screenshots/ios-form.png" alt="Form" width="250">
   </div>
 </div>
